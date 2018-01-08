@@ -27,6 +27,8 @@ int main() {
 
 	printf("%d\n", returnOptimizedRoute());
 
+	return 0;
+
 }
 
 void getInput() {
@@ -56,5 +58,8 @@ void getInput() {
 }
 
 int returnOptimizedRoute() {
+
+	
+	
 	return -1;
 }
